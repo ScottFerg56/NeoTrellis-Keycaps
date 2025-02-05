@@ -7,7 +7,11 @@ So I've designed 3D-printable keycaps to fit snugly over the silicone buttons.
 They push down over the buttons and stay in place rather well.
 Printed in black with transparent icons, they work well as functional lighted keycaps. Or go wild with the colors!
 
+## Image of Example lamp keycap:
 ![Example Lamp Keycap](Trellis%20Keycap%20Lamp.png)
+
+## Image of NeoTrellis keypad with custom keycaps:
+![Image of NeoTrellis keypad with custom keycaps](NeoTrellis%20Keypad.jpg)
 
 ## Caution:
 While the keycaps stay in place with normal use, they can be removed easily with the fingers.
